@@ -1,4 +1,4 @@
-# League_WCS_2022
+# LEAGUE_WCS_2022
 This project is made by a collection of data from League of Legends World Championship 2022
 
 GAME DESCRIPTION:
