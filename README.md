@@ -16,6 +16,8 @@ The League of Legends World Championship is the annual professional League of Le
 
 player_dashboard.pdf - tableau dashboard image preview, displays player stats during main stage.
 
+wc_teams_main.xlsx - excel dashboard for main stage teams, displays team stats during main stage
+
 wc_teams_main and wc_teams_play_in.csv - documents all the world championship team stats.
 
 wc_players_main.csv and wc_players_play_in.csv - documents all the data of each individual player.
