@@ -12,12 +12,13 @@ League of Legends, commonly referred to as League, is a 2009 multiplayer online 
 
 The League of Legends World Championship is the annual professional League of Legends world championship tournament hosted by Riot Games and is the culmination of each season. Teams compete for the champion title, the 70-pound Summoner's Cup, and a multi-million-dollar championship prize. Twenty-four teams from 11 regions qualified for the tournament based on their placement in regional circuits such as those in China, Europe, North America, South Korea, Taiwan/Hong Kong/Macau/Southeast Asia and Vietnam, with twelve of those teams having to reach the main event via a play-in stage.
 
-## DATASETS DESCRIPTION
+## FILE DESCRIPTION
 
 player_dashboard.pdf - tableau dashboard image preview, displays player stats during main stage.
 
 wc_teams_main.xlsx - excel dashboard for main stage teams, displays team stats during main stage
 
+#### RAW DATASETS:
 wc_teams_main and wc_teams_play_in.csv - documents all the world championship team stats.
 
 wc_players_main.csv and wc_players_play_in.csv - documents all the data of each individual player.
