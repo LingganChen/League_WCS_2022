@@ -2,8 +2,8 @@
 This project is made by a collection of data from League of Legends World Championship 2022
 
 ## TABLEAU LINK
-LINK to player interactive dashboard: https://public.tableau.com/app/profile/ssnss/viz/LOL_WCS_2022/Dashboard1
-
+LINK to player dashboard: https://public.tableau.com/app/profile/ssnss/viz/LOL_WCS_2022/Dashboard1
+LINK to champion dashboard: https://public.tableau.com/app/profile/ssnss/viz/LOL_2022_WCSChampionStats/ChampionStats
 ## GAME DESCRIPTION
 
 League of Legends, commonly referred to as League, is a 2009 multiplayer online battle arena video game developed and published by Riot Games. In the game, two teams of five players battle in player-versus-player combat, each team occupying and defending their half of the map. Each of the ten players controls a character, known as a "champion", with unique abilities and differing styles of play. During a match, champions become more powerful by collecting experience points, earning gold, and purchasing items to defeat the opposing team. In League's main mode, Summoner's Rift, a team wins by pushing through to the enemy base and destroying their "Nexus".
@@ -14,9 +14,9 @@ The League of Legends World Championship is the annual professional League of Le
 
 ## FILE DESCRIPTION
 
-player_dashboard.pdf - tableau dashboard image preview, displays player stats during main stage.
-
-wc_teams_main.xlsx - excel dashboard for main stage teams, displays team stats during main stage
+player_dashboard.pdf - tableau dashboard preview, displays player stats during main stage.
+champion_dashboard.pdf - tableau dashboard preview, displays champion stats.
+wc_teams_main.xlsx - excel dashboard for main stage teams, displays team stats during main stage.
 
 #### RAW DATASETS:
 wc_teams_main and wc_teams_play_in.csv - documents all the world championship team stats.
