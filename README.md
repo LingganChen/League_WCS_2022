@@ -14,6 +14,8 @@ The League of Legends World Championship is the annual professional League of Le
 
 ## FILE DESCRIPTION
 
+world_2022_final_report.pdf - FINAL REPORT + PREDICTION MODEL
+
 player_dashboard.pdf - tableau dashboard preview, displays player stats during main stage.
 
 champion_dashboard.pdf - tableau dashboard preview, displays champion stats.
